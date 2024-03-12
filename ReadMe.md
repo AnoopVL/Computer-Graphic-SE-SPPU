@@ -4,7 +4,7 @@
 
 ```bash
     #TO compile the file
-    g++ fileName.cpp -o run -lglut -lGLU -GL
+    g++ fileName.cpp -o run -lglut -lGLU -lGL
     #To run the compiled file
     ./run
 ```
