@@ -18,3 +18,15 @@
 https://learn.microsoft.com/en-us/windows/win32/opengl/glclear
 
 https://www.opengl.org/resources/libraries/glut/spec3/node9.html
+
+## Installation
+
+```
+Bash
+
+sudo apt update
+
+sudo apt install g++
+
+sudo apt-get install freeglut3-dev
+```
