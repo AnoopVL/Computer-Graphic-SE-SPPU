@@ -8,3 +8,7 @@
     #To run the compiled file
     ./run
 ```
+
+## codebind
+
+[Insallaion steps](https://www.codebind.com/linux-tutorials/how-to-install-opengl-on-ubuntu-20-04-linux/)
