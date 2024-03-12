@@ -12,3 +12,9 @@
 ## codebind
 
 [Insallaion steps](https://www.codebind.com/linux-tutorials/how-to-install-opengl-on-ubuntu-20-04-linux/)
+
+## Resources
+
+https://learn.microsoft.com/en-us/windows/win32/opengl/glclear
+
+https://www.opengl.org/resources/libraries/glut/spec3/node9.html
